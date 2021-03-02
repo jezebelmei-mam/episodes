@@ -9,6 +9,13 @@
     <managingEditor>editor@jezebelmei.info</managingEditor>
     <webMaster>webmaster@jezebelmei.info</webMaster>
     <copyright>2021 Equinity Media</copyright>
+    <image>
+      <title>Mishaps at Mast</title>
+      <link>http://jezebelmei.info</link>
+      <url>https://raw.githubusercontent.com/jezebelmei-mam/episodes/main/mam_1.png</url>
+      <width>1080</width>
+      <height>1080</height>
+    </image>
     <item>
       <title>Episode 1 - Indebted Beginnings</title>
       <pubDate>Wed, 24 Feb 2021 01:32:12 -0500</pubDate>

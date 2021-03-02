@@ -3,9 +3,7 @@
   <channel>
     <generator>RSS Builder by B!Soft</generator>
     <title>Mishaps at Mast</title>
-    <owner>
     <email>jezebelmei@jezebelmei.info</email>
-    </owner>
     <link>http://jezebelmei.info</link>
     <description>Audio version of the Dungeons and Dragons Live Play, "Mishaps At Mast"</description>
     <language>en-us</language>
@@ -16,8 +14,8 @@
       <title>Mishaps at Mast</title>
       <link>http://jezebelmei.info</link>
       <url>https://raw.githubusercontent.com/jezebelmei-mam/episodes/main/mam_1.png</url>
-      <width>1080</width>
-      <height>1080</height>
+      <width>144</width>
+      <height>400</height>
     </image>
     <item>
       <title>Episode 1 - Indebted Beginnings</title>
@@ -25,7 +23,7 @@
       <link>https://media.githubusercontent.com/media/jezebelmei-mam/episodes/main/Mishaps%20At%20Mast%20ep001.mp3</link>
       <author>jezebelmei@jezebelmei.info</author>
       <category>Episodes</category>
-      <enclosure url="https://media.githubusercontent.com/media/jezebelmei-mam/episodes/main/Mishaps%20At%20Mast%20ep001.mp3" length="" type="audio/mpeg" />
+      <enclosure url="https://media.githubusercontent.com/media/jezebelmei-mam/episodes/main/Mishaps%20At%20Mast%20ep001.mp3" length="129547000" type="audio/mpeg" />
       <description><![CDATA[In this week's episode, our intrepid adventurers investigate a haunted house.]]></description>
     </item>
   </channel>

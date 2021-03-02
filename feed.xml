@@ -3,9 +3,9 @@
   <channel>
     <generator>RSS Builder by B!Soft</generator>
     <title>Mishaps at Mast</title>
-    <!-- <itunes:owner> -->
-    <itunes:email>jezebelmei@jezebelmei.info</itunes:email>
-    <!-- </itunes:owner> -->
+    <owner>
+    <email>jezebelmei@jezebelmei.info</email>
+    </itunes:owner>
     <link>http://jezebelmei.info</link>
     <description>Audio version of the Dungeons and Dragons Live Play, "Mishaps At Mast"</description>
     <language>en-us</language>

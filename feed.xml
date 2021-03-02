@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Mishaps at Mast</title>
+    <link>http://jezebelmei.info</link>
+    <description>Audio version of the Dungeons and Dragons Live Play, "Mishaps At Mast"</description>
+    <language>en-us</language>
+    <managingEditor>editor@jezebelmei.info</managingEditor>
+    <webMaster>webmaster@jezebelmei.info</webMaster>
+    <copyright>2021 Equinity Media</copyright>
+    <item>
+      <title>Episode 1 - Indebted Beginnings</title>
+      <pubDate>Wed, 24 Feb 2021 01:32:12 -0500</pubDate>
+      <link>https://media.githubusercontent.com/media/jezebelmei-mam/episodes/main/Mishaps%20At%20Mast%20ep001.mp3</link>
+      <author>jezebelmei@jezebelmei.info</author>
+      <category>Episodes</category>
+      <enclosure url="https://media.githubusercontent.com/media/jezebelmei-mam/episodes/main/Mishaps%20At%20Mast%20ep001.mp3" length="" type="audio/mpeg" />
+      <description><![CDATA[In this week's episode, our intrepid adventurers investigate a haunted house.]]></description>
+    </item>
+  </channel>
+</rss>
